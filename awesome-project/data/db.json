@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Second blog",
+      "body": "Hello universe",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "First blog",
+      "body": "dsafsdgh'obm,uds",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
